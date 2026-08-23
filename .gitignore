@@ -1,0 +1,6 @@
+.env
+log_extraccion.txt
+prompt.txt
+lista_exclusion.csv
+metricas.csv
+analisis/
