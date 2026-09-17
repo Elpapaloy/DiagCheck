@@ -4,3 +4,17 @@ prompt.txt
 lista_exclusion.csv
 metricas.csv
 analisis/
+prompt_grueso.txt
+prompt_fino.txt
+
+metricas_ciega/
+metricas_ciega2/
+metricas_NOTOOLS/
+metricas_promptciego/
+
+
+prueba_ciega/
+prueba_ciega2/
+pruebaNOTOOLS/
+pruebas_promptciego/
+colapso_cat/
